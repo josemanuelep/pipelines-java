@@ -1,4 +1,5 @@
 [![Build Status](https://dev.azure.com/jecheverrip/Pipelines%20docs%20from%20Microsoft/_apis/build/status/josemanuelep.pipelines-java?branchName=master)](https://dev.azure.com/jecheverrip/Pipelines%20docs%20from%20Microsoft/_build/latest?definitionId=5&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
